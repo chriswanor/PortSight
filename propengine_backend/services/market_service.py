@@ -6,7 +6,7 @@ from db.connection import engine
 # ==============================
 # CONFIGURATION
 # ==============================
-RENTCAST_API_KEY = "969613c94fec4387bb1879a38204e57d"
+RENTCAST_API_KEY = ""
 FRED_API_KEY = "your_fred_api_key_here"   # get from https://fred.stlouisfed.org/docs/api/api_key.html
 
 

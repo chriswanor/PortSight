@@ -1,0 +1,41 @@
+{
+    "ownership_type": "owned",
+    "portfolio_name": "Core Residential Portfolio",
+    "name": "Maplewood Apartments",
+    "address": "123 Maple St",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55401",
+    "property_type": "Multi-Family",
+    "bedrooms": 8,
+    "bathrooms": 4.0,
+    "year_built": 1985,
+    "property_sf": 4500,
+    "current_value": 750000,
+    "current_tax_annual": 12000,
+    "current_loan_balance": 420000,
+    "current_loan_rate": 0.045,
+    "current_loan_remaining_years": 18,
+  
+    "acquisition_date": "2019-08-01",
+    "purchase_price": 700000,
+    "closing_costs": 0.02,
+    "date_of_close": "2019-08-01",
+  
+    "rent_immediately_after_purchase": 5800,
+    "vacancy_immediately_after_purchase": 0.05,
+    "other_income_immediately_after_purchase": 200,
+    "operating_expenses_after_purchase": 3100,
+    "capital_expense_after_purchase": 8000,
+    "tax_assessment_price_immediately_after_purchase": 690000,
+    "capital_expenses_right_after_purchase": 2000,
+  
+    "exit_cap_rate_expectation": 0.055,
+    "hold_period_years": 10,
+    "cost_of_sale_percentage": 0.05,
+    "ltv": 0.70,
+    "loan_origination_fee": 0.01,
+    "interest_rate": 0.045,
+    "amortization_years": 30
+  }
+  
